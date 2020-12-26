@@ -1,0 +1,11 @@
+.container{
+    float:left;
+    border: 1px solid lightgray;
+    padding: 20px;
+    width: 300px;
+    height: 200px;
+    margin: 10px 20px;
+    background-color: rgb(230, 230, 230);
+    border-radius:20px;
+    box-shadow: 5px 5px 0px rgb(134, 134, 134);
+}

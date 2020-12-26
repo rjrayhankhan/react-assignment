@@ -1,0 +1,13 @@
+.aria-container{
+    display: flex;
+}
+.count-container{
+    margin: 0 40px;
+    padding: 50px;
+    background-color:rgb(228, 228, 228);
+    border-radius: 20px;
+    box-shadow: 5px 5px 0px rgb(134, 134, 134);
+    height: 200px;
+    text-align: left;
+    
+}

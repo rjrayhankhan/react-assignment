@@ -1,0 +1,76 @@
+[{
+    "id": 1,
+    "course_name": "2020 Complete Python Bootcamp From Zero to Hero in Python",
+    "name": "Mada Busch",
+    "course_fee": 480
+  }, {
+    "id": 2,
+    "course_name": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+    "name": "Gustave Brewitt",
+    "course_fee": 484
+  }, {
+    "id": 3,
+    "course_name": "Python for Data Science and Machine Learning Bootcamp",
+    "name": "Briant Parnell",
+    "course_fee": 475
+  }, {
+    "id": 4,
+    "course_name": "Learn Python Programming Masterclass",
+    "name": "Kristian Catterick",
+    "course_fee": 427
+  }, {
+    "id": 5,
+    "course_name": "The Python Mega Course: Build 10 Real World Applications",
+    "name": "Chris Kunisch",
+    "course_fee": 438
+  }, {
+    "id": 6,
+    "course_name": "Learning Python for Data Analysis and Visualization",
+    "name": "Tully Filpi",
+    "course_fee": 428
+  }, {
+    "id": 7,
+    "course_name": "Automate the Boring Stuff with Python Programming",
+    "name": "Henryetta McInnes",
+    "course_fee": 406
+  }, {
+    "id": 8,
+    "course_name": "Python and Django Full Stack Web Developer Bootcamp",
+    "name": "Dotti Stickney",
+    "course_fee": 408
+  }, {
+    "id": 9,
+    "course_name": "Python for Financial Analysis and Algorithmic Trading",
+    "name": "Joseph Pellamonuten",
+    "course_fee": 385
+  }, {
+    "id": 10,
+    "course_name": "Python for Finance: Investment Fundamentals & Data Analytics",
+    "name": "Sella Pittwood",
+    "course_fee": 407
+  }, {
+    "id": 11,
+    "course_name": "Complete Python Developer in 2021: Zero to Mastery",
+    "name": "Clarisse Headings",
+    "course_fee": 439
+  }, {
+    "id": 12,
+    "course_name": "The Python Bible™ | Everything You Need to Program in Python",
+    "name": "Hurleigh Patise",
+    "course_fee": 451
+  }, {
+    "id": 13,
+    "course_name": "The Modern Python 3 Bootcamp",
+    "name": "Devland Garlinge",
+    "course_fee": 445
+  }, {
+    "id": 14,
+    "course_name": "Learn Python & Ethical Hacking From Scratch",
+    "name": "Al Furmonger",
+    "course_fee": 382
+  }, {
+    "id": 15,
+    "course_name": "Ford",
+    "name": "Ford Dansey",
+    "course_fee": 492
+  }] 
